@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 notebooks/output/
+notebooks/data/flowers-recognition/
 notebooks-temp/
 notebooks-old/
-slides_ppt/
+slides-ppt/
